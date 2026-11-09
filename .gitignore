@@ -1,0 +1,7 @@
+# credentials & local data - never commit these
+*.session
+*.session-journal
+tdata_copy/
+exports/
+__pycache__/
+*.log

@@ -1,0 +1,4 @@
+telethon>=1.40
+opentele==1.15.1
+pydantic<2
+python-socks[asyncio]
